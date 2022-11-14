@@ -1,9 +1,8 @@
 # hi there!
 
-In this repository I went through this react coding interview:
-(link)[https://www.youtube.com/watch?v=6s0OVdoo4Q4&ab_channel=BenAwad]
+In this repository I went through this react coding interview:[youtube.com/watch](https://www.youtube.com/watch?v=6s0OVdoo4Q4&ab_channel=BenAwad)
 
-My app take 10 random users from [randomuser.me/api] and display location of each user in the table.
+My app take 10 random users from (randomuser.me/api) and display location of each user in the table.
 If you click on the table header, content in this column sorts either descending or ascending order
 
 To run this code locally:
