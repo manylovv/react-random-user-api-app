@@ -14,7 +14,7 @@ git clone git@github.com:manylovv/react-random-user-api-app.git
 
 cd react-random-user-api-app
 
-# install dependensies:
+# install dependencies:
 npm install
 
 # run app at localhost:5173
