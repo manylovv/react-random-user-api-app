@@ -12,8 +12,11 @@ To run this code locally:
 # clone the repo
 git clone git@github.com:manylovv/react-random-user-api-app.git
 
-# run these commands:
+cd react-random-user-api-app
+
+# install dependensies:
 npm install
+
 # run app at localhost:5173
 npm run dev
 ```
