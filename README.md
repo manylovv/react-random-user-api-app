@@ -10,9 +10,9 @@ To run this code locally:
 
 ```bash
 # clone the repo
-git clone git@github.com:manylovv/react-random-user-api-app.git
+git clone git@github.com:manylovv/react-user-api.git
 
-cd react-random-user-api-app
+cd react-user-api
 
 # install dependencies:
 npm install
